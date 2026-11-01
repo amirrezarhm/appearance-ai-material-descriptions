@@ -1,0 +1,105 @@
+{
+  "Generated UTC": "2026-10-23T19:53:34+00:00",
+  "Dataset": "Dataset 2 - 90 images only",
+  "Total images": 90,
+  "Total model responses": 360,
+  "Total word occurrences": 1800,
+  "Classified occurrences": 1800,
+  "Unassigned occurrences": 0,
+  "Fully classified images": 90,
+  "Fully classified responses": 360,
+  "coverage_images": [
+    {
+      "appearance_categories": 4,
+      "image_count": 24,
+      "percent_all_images": 26.667,
+      "percent_classified_images": 26.667,
+      "total_images": 90,
+      "fully_classified_images": 90,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 3,
+      "image_count": 29,
+      "percent_all_images": 32.222,
+      "percent_classified_images": 32.222,
+      "total_images": 90,
+      "fully_classified_images": 90,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 2,
+      "image_count": 37,
+      "percent_all_images": 41.111,
+      "percent_classified_images": 41.111,
+      "total_images": 90,
+      "fully_classified_images": 90,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 1,
+      "image_count": 0,
+      "percent_all_images": 0.0,
+      "percent_classified_images": 0.0,
+      "total_images": 90,
+      "fully_classified_images": 90,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 0,
+      "image_count": 0,
+      "percent_all_images": 0.0,
+      "percent_classified_images": 0.0,
+      "total_images": 90,
+      "fully_classified_images": 90,
+      "incomplete_images": 0
+    }
+  ],
+  "coverage_model_responses": [
+    {
+      "appearance_categories": 4,
+      "image_count": 24,
+      "percent_all_images": 6.667,
+      "percent_classified_images": 6.667,
+      "total_images": 360,
+      "fully_classified_images": 360,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 3,
+      "image_count": 93,
+      "percent_all_images": 25.833,
+      "percent_classified_images": 25.833,
+      "total_images": 360,
+      "fully_classified_images": 360,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 2,
+      "image_count": 195,
+      "percent_all_images": 54.167,
+      "percent_classified_images": 54.167,
+      "total_images": 360,
+      "fully_classified_images": 360,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 1,
+      "image_count": 47,
+      "percent_all_images": 13.056,
+      "percent_classified_images": 13.056,
+      "total_images": 360,
+      "fully_classified_images": 360,
+      "incomplete_images": 0
+    },
+    {
+      "appearance_categories": 0,
+      "image_count": 1,
+      "percent_all_images": 0.278,
+      "percent_classified_images": 0.278,
+      "total_images": 360,
+      "fully_classified_images": 360,
+      "incomplete_images": 0
+    }
+  ]
+}
